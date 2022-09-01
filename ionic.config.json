@@ -1,0 +1,7 @@
+{
+  "name": "DPF",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
